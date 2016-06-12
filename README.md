@@ -11,5 +11,7 @@ Ways to validate credibility of a publisher (adding publisher metadata)
 Ways to validate credibility of an article (adding article metadata)
 
 1. How many tweets this particular article has
+2. Look at other articles that are under the same event, have similar entities, etc.
+    - Rate of acceleration for the event it is under or how many new articles are coming out about that entity
 
 Ways to validate credibility of a tweet (which is related to an article, entity, or publisher)
